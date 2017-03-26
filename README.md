@@ -5,7 +5,7 @@ Solution Integrator Experienced - Certified by Ericsson
 ```
 # Tutorial Javabrains Spring Boot
 
-![tutorial image](images/tutorial.png)
+![tutorial image](images/javabrains.png)
 
 **About**
 
