@@ -20,20 +20,20 @@ UNIT
 Introducing Spring Boot
 This unit starts with an introduction to Spring Boot, why you should use it and how to get started with it. We'll create a simple Spring Boot application, add a controller and execute it to make sure it's working.
 
-[ ] Introduction 1 minute
-[ ] About The Course 2 minutes
-[ ] What is Spring Boot 2 minutes
-[ ] Spring and some of its problems 6 minutes
-[ ] What Spring Boot gives us 1 minute
-[ ] Setting Up Development Environment 2 minutes
-[ ] Maven 2 minutes
-[ ] Creating a Spring Boot project 9 minutes
-[ ] Starting a Spring Boot application 6 minutes
-[ ] Spring Boot startup steps 3 minutes
-[ ] Adding a REST Controller 7 minutes
-[ ] Returning Objects From Controller 7 minutes
-[ ] What's Happening Here: Bill Of Materials 3 minutes
-[ ] What's Happening Here: Embedded Servlet Container 3 minutes
+[x] Introduction 1 minute
+[x] About The Course 2 minutes
+[x] What is Spring Boot 2 minutes
+[x] Spring and some of its problems 6 minutes
+[x] What Spring Boot gives us 1 minute
+[x] Setting Up Development Environment 2 minutes
+[x] Maven 2 minutes
+[x] Creating a Spring Boot project 9 minutes
+[x] Starting a Spring Boot application 6 minutes
+[x] Spring Boot startup steps 3 minutes
+[x] Adding a REST Controller 7 minutes
+[x] Returning Objects From Controller 7 minutes
+[x] What's Happening Here: Bill Of Materials 3 minutes
+[x] What's Happening Here: Embedded Servlet Container 3 minutes
 
 UNIT
 02
