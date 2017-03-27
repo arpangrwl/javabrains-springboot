@@ -3,13 +3,13 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# Tutorial Javabrains Spring Boot
+# Javabrains Spring Boot
 
-![tutorial image](images/javabrains.png)
+![Javabrains image](images/javabrains.png)
 
 **About**
 
-Learn everything you need to about the subject of this `Tutorial` project.
+Learn everything you need to about the subject of this `Javabrains` project.
 
 [Homepage](https://javabrains.io/courses/spring_bootquickstart)
 
@@ -39,12 +39,12 @@ UNIT
 02
 Spring MVC: The View Tier
 This unit focuses on the view tier - with Spring MVC. Learn how to use Spring MVC annotations to map incoming REST API requests to controller methods. Learn how to access path variables and request body content to get data as well as send JSON responses from the REST API.
-[ ] How Spring MVC Works 4 minutes
-[ ] The REST API we'll build 4 minutes
-[ ] Creating a business service 6 minutes
-[ ] Getting a single resource 6 minutes
-[ ] Creating a new resource using POST 10 minutes
-[ ] Implementing Update and Delete 9 minutes
+[x] How Spring MVC Works 4 minutes
+[x] The REST API we'll build 4 minutes
+[x] Creating a business service 6 minutes
+[x] Getting a single resource 6 minutes
+[x] Creating a new resource using POST 10 minutes
+[x] Implementing Update and Delete 9 minutes
 
 UNIT
 03
