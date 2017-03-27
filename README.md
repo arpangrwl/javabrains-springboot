@@ -50,11 +50,11 @@ UNIT
 03
 Booting Spring Boot
 In this unit, we'll take a slight detour and examine the various different ways in which you can create a brand new Spring Boot application. Pick your favorite one!
-[ ] Unit Overview 1 minute
-[ ] Using Spring Initializr 5 minutes
-[ ] Using Spring Boot CLI 6 minutes
-[ ] Using the STS IDE 2 minutes
-[ ] Using application properties 6 minutes
+[x] Unit Overview 1 minute
+[x] Using Spring Initializr 5 minutes
+[x] Using Spring Boot CLI 6 minutes
+[x] Using the STS IDE 2 minutes
+[x] Using application properties 6 minutes
 
 UNIT
 04
