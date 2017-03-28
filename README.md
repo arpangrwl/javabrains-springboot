@@ -60,18 +60,18 @@ UNIT
 04
 Spring Data JPA: The Data Tier
 In this unit, we'll move to the data tier. We'll use the Spring Data JPA framework to connect to both an embedded Derby database as well as an external Derby database running in server mode. We'll leverage the CrudRepository to create simple CRUD operations, and also create custom find methods to extend and add new methods to the repository.
-[ ] What is JPA 2 minutes
-[ ] Adding Spring Data JPA 6 minutes
-[ ] Creating a Spring Data JPA Repository 9 minutes
-[ ] Making Crud Operations with Repository 14 minutes
-[ ] Adding Course APIs 13 minutes
-[ ] Adding Entity Relationship and Extending Repository 14 minutes
+[x] What is JPA 2 minutes
+[x] Adding Spring Data JPA 6 minutes
+[x] Creating a Spring Data JPA Repository 9 minutes
+[x] Making Crud Operations with Repository 14 minutes
+[x] Adding Course APIs 13 minutes
+[x] Adding Entity Relationship and Extending Repository 14 minutes
 
 UNIT
 05
 Deployment and monitoring
 Let's wrap up this course by quickly looking at a couple of ways to package and run your Spring Boot application. We'll also learn how to enable Spring Actuator in your Spring Boot application to access realtime metrics about your app.
-[ ] Packaging and running a Spring Boot app 4 minutes
-[ ] Spring Boot Actuator 4 minutes
+[x] Packaging and running a Spring Boot app 4 minutes
+[x] Spring Boot Actuator 4 minutes
 Wrap Up
 ```
